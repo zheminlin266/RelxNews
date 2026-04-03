@@ -2,7 +2,7 @@ name: Scrape Vaping News
 
 on:
   schedule:
-    - cron: "0 8 * * *"  # UTC 8:00 daily (Beijing 16:00)
+    - cron: "0 1 * * *"  # UTC 1:00 daily (Beijing 9:00)
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
