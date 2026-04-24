@@ -1,6 +1,6 @@
 import os
 
-KEYWORDS = ["Relx", "RLX", "Vaping Regulation"]
+KEYWORDS = ["RLX", "Vaping Regulation"]
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHANNEL_ID = "-5106544699"
